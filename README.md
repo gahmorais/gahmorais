@@ -1,6 +1,6 @@
-- 👋 Olá, eu sou @gahmorais
-- 👀 Sou formado em Engenharia de Controle e automação
-- 🌱 Atualmente estou estudando React e me aprimorando no desenvolvimento front end mas, tenho conhecimento em Python, Java e Android.
+- 👋 Olá, meu nome é Gabriel
+- 👀 Sou formado em Engenharia de Controle e Automação pela Universidade São Judas.
+- 🌱 Sou uma pessoa curiosa e sempre em busca de aprender novas tecnologias e me aprimorar.
 
 <!---
 gahmorais/gahmorais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
