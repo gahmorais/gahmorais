@@ -1,7 +1,7 @@
 ## Olá, meu nome é Gabriel
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gahmorais&show_icons=true&theme=react&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gahmorais&show_icons=true&theme=react&count_private=false&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahmorais&layout=compact&theme=react&langs_count=6"/>
 </div>
 
